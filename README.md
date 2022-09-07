@@ -2,7 +2,7 @@
 
 ⛏ Check though a list of Minecraft usernames fastly
 
-!! Some available names could be blocked by Mojang for different reasons.
+### Some available names could be blocked by Mojang for different reasons.
 
 # Installation
 
